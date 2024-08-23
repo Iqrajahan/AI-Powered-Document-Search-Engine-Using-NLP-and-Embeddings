@@ -1,2 +1,2 @@
 # Langchain with RAG
-This project uses a Langcahin with RAG. 
+This project uses a Langchain with RAG. 
